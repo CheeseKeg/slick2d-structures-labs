@@ -9,7 +9,7 @@ Data Structures course at Wentworth Institute of Technology and possibly
 encourage students to explore the possibility of extending their labs to
 include fancy graphical displays.
 
-License
+License (GNU GPL 3.0)
 -----------------------------------
 These programs are free software: you can redistribute them and/or modify
 them under the terms of the GNU General Public License as published by
@@ -24,7 +24,7 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with these program.  If not, see <http://www.gnu.org/licenses/>.
 
-Asset license
+Asset license (CC BY-SA 3.0)
 -----------------------------------
 All images, videos, and audio files included within this repository are
 licensed under *Creative Commons Attribution-ShareAlike 3.0* (CC BY-SA 3.0).
@@ -35,13 +35,11 @@ in a way that doesn't suggest endorsement of you or your use of the work.
 
 Visit the following URL for more details: http://creativecommons.org/licenses/by-sa/3.0/
 
-Slick2D license (BSD)
+LWJGL and Slick2D license (BSD)
 -----------------------------------
-http://www.slick2d.org/documentation/license-bsd/
+LWJGL: http://www.lwjgl.org/license.php
+Slick2D: http://www.slick2d.org/documentation/license-bsd/
 
-Copyright (c) 2012, Slick 2D
-
-All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
